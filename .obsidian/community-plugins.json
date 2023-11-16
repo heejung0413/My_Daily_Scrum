@@ -2,5 +2,6 @@
   "obsidian-tasks-plugin",
   "calendar",
   "make-md",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
