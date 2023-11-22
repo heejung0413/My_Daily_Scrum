@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2023-11-20.md",
+                "file": "Todo/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2023-11-20.md",
+                "file": "Todo/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2023-11-20.md",
+                "file": "Todo/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2023-11-20.md"
+                "file": "Todo/2023-11-23.md"
               }
             }
           },
@@ -178,8 +179,11 @@
   },
   "active": "2dc536e3227a01be",
   "lastOpenFiles": [
-    "Todo/DailyScrum.md",
+    "Todo/2023-11-22.md",
+    "Todo/2023-11-23.md",
+    "Todo/2023-11-21.md",
     "Todo/2023-11-20.md",
+    "Todo/DailyScrum.md",
     "Todo/2023-11-17.md",
     "Todo/2023-11-16.md",
     "자료조사/FIx2U 자료조사.md",
