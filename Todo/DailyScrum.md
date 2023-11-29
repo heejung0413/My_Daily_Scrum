@@ -14,10 +14,7 @@ banner: https://outpostmagazine.com/sin-city-seoul-welcome-new-korea/seoul-skyli
 
 
 # {{yesterday}} 한 일
-```tasks
 
-done
 
-```
 
 [[DS/{{yesterday}}|< yesterday]] | [[DS/{{tomorrow}}|tomorrow >]]
