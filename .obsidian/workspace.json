@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#프론트엔드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,9 +179,9 @@
   },
   "active": "2dc536e3227a01be",
   "lastOpenFiles": [
-    "Todo/2023-11-29.md",
-    "Todo/2023-11-30.md",
     "Todo/DailyScrum.md",
+    "Todo/2023-11-30.md",
+    "Todo/2023-11-29.md",
     "Todo/2023-11-23.md",
     "Todo/2023-11-17.md",
     "Todo/2023-11-20.md",
