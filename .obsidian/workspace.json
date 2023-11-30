@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +179,7 @@
   "active": "2dc536e3227a01be",
   "lastOpenFiles": [
     "Todo/DailyScrum.md",
+    "Todo/2023-11-28.md",
     "Todo/2023-11-30.md",
     "Todo/2023-11-29.md",
     "Todo/2023-11-23.md",
