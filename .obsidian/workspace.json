@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2023-12-06.md",
+                "file": "공부해야 하는 것 ⭐.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2023-12-06.md",
+                "file": "공부해야 하는 것 ⭐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2023-12-06.md",
+                "file": "공부해야 하는 것 ⭐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2023-12-06.md"
+                "file": "공부해야 하는 것 ⭐.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "f9db3c21e3494e8e",
   "lastOpenFiles": [
-    "README.md",
+    "자료조사/FIx2U 해야 하는 것.md",
     "Todo/2023-12-06.md",
     "공부해야 하는 것 ⭐.md",
+    "README.md",
     "studying",
     "Todo/DailyScrum.md",
     "Todo/2023-12-05.md",
@@ -181,7 +182,6 @@
     "Todo/2023-11-22.md",
     "Todo/2023-11-21.md",
     "Todo/2023-11-16.md",
-    "자료조사/FIx2U 자료조사.md",
     "자료조사",
     "무제 파일 1.md",
     "Todo",
