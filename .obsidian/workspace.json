@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "Todo/2023-12-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "Todo/2023-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "Todo/2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md"
+                "file": "Todo/2023-12-08.md"
               }
             }
           },
@@ -165,9 +166,10 @@
   },
   "active": "f9db3c21e3494e8e",
   "lastOpenFiles": [
+    "공부해야 하는 것 ⭐.md",
+    "Todo/2023-12-08.md",
     "자료조사/FIx2U 해야 하는 것.md",
     "Todo/2023-12-06.md",
-    "공부해야 하는 것 ⭐.md",
     "README.md",
     "studying",
     "Todo/DailyScrum.md",
