@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8efa7479d9715496",
+        "id": "8a6a27cf995562fa",
         "type": "tabs",
         "children": [
           {
-            "id": "f9db3c21e3494e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/2024-01-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdec9df1004cb025",
+            "id": "5162e224dd9a2d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdec9df1004cb025",
+  "active": "5162e224dd9a2d93",
   "lastOpenFiles": [
-    "Todo/2024-01-08.md",
     "Todo/2024-01-09.md",
     "Todo/2024-01-07.md",
+    "Todo/2024-01-08.md",
     "Todo/2023-12-17.md",
     "무제 파일.md",
     "Spaces/Home",
