@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdec9df1004cb025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/2024-01-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-01-07.md",
+                "file": "Todo/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-01-07.md",
+                "file": "Todo/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-01-07.md"
+                "file": "Todo/2024-01-09.md"
               }
             }
           },
@@ -164,11 +177,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9db3c21e3494e8e",
+  "active": "bdec9df1004cb025",
   "lastOpenFiles": [
-    "Spaces/Home",
-    "Todo/2023-12-17.md",
+    "Todo/2024-01-08.md",
+    "Todo/2024-01-09.md",
     "Todo/2024-01-07.md",
+    "Todo/2023-12-17.md",
+    "무제 파일.md",
+    "Spaces/Home",
     "Spaces",
     "Todo/2023-12-11.md",
     "Todo/2023-12-01.md",
