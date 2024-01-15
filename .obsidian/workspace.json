@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "commit.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md"
+                "file": "commit.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "51765819e94a12c0",
   "lastOpenFiles": [
     "Todo/2024-01-16.md",
+    "commit.md",
     "Todo/2024-01-11.md",
     "Todo/2024-01-09.md",
     "Todo/2024-01-07.md",
@@ -194,7 +195,6 @@
     "Todo/2023-11-21.md",
     "Todo/2023-11-16.md",
     "자료조사",
-    "무제 파일 1.md",
     "Todo"
   ]
 }
