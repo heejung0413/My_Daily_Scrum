@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79062b32856b60d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/2024-01-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-01-16.md",
+                "file": "Todo/2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-01-16.md",
+                "file": "Todo/2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-01-16.md"
+                "file": "Todo/2024-01-17.md"
               }
             }
           },
@@ -163,10 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed8d2635f23ca2a0",
+  "active": "79062b32856b60d2",
   "lastOpenFiles": [
-    "commit.md",
     "Todo/2024-01-16.md",
+    "Todo/2024-01-17.md",
+    "무제 파일 1.md",
+    "commit.md",
     "Todo/2024-01-11.md",
     "Todo/2024-01-09.md",
     "Todo/2024-01-07.md",
@@ -192,8 +208,6 @@
     "Todo/2023-11-17.md",
     "Todo/2023-11-20.md",
     "Todo/2023-11-22.md",
-    "Todo/2023-11-21.md",
-    "Todo/2023-11-16.md",
     "자료조사",
     "Todo"
   ]
