@@ -9,7 +9,4 @@ banner: https://outpostmagazine.com/sin-city-seoul-welcome-new-korea/seoul-skyli
 
 ​
 
-sdsd
-
-
 [[DS/{{yesterday}}|< yesterday]] | [[DS/{{tomorrow}}|tomorrow >]]

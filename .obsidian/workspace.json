@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-01-17.md",
+                "file": "Todo/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-01-17.md",
+                "file": "Todo/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-01-17.md",
+                "file": "Todo/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-01-17.md"
+                "file": "Todo/2024-01-18.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "79062b32856b60d2",
   "lastOpenFiles": [
-    "Todo/2024-01-16.md",
+    "Todo/2024-01-18.md",
     "Todo/2024-01-17.md",
+    "Todo/2024-01-16.md",
     "무제 파일 1.md",
     "commit.md",
     "Todo/2024-01-11.md",
@@ -207,7 +208,6 @@
     "Todo/2023-11-23.md",
     "Todo/2023-11-17.md",
     "Todo/2023-11-20.md",
-    "Todo/2023-11-22.md",
     "자료조사",
     "Todo"
   ]
