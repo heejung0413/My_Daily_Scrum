@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f723bab490261fcf",
+        "id": "f3114830975922a8",
         "type": "tabs",
         "children": [
           {
-            "id": "ed8d2635f23ca2a0",
+            "id": "dd5a151500e74e70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-01-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79062b32856b60d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "Todo/2024-03-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "Todo/2024-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md",
+                "file": "Todo/2024-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부해야 하는 것 ⭐.md"
+                "file": "Todo/2024-03-09.md"
               }
             }
           },
@@ -176,11 +164,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79062b32856b60d2",
+  "active": "dd5a151500e74e70",
   "lastOpenFiles": [
+    "Todo/2024-03-09.md",
+    "Todo/2024-01-16.md",
+    "공부해야 하는 것 ⭐.md",
     "Todo/2024-03-08.md",
     "Todo/DailyScrum.md",
-    "공부해야 하는 것 ⭐.md",
     "README.md",
     "자료조사/FIx2U 해야 하는 것.md",
     "Todo/2024-03-04.md",
@@ -191,7 +181,6 @@
     "Todo/2024-01-21.md",
     "Todo/2024-01-18.md",
     "Todo/2024-01-17.md",
-    "Todo/2024-01-16.md",
     "Todo/2024-01-11.md",
     "Todo/2024-01-09.md",
     "Todo/2024-01-07.md",
@@ -206,7 +195,6 @@
     "Todo/2023-12-05.md",
     "studying",
     "Todo/2023-11-30.md",
-    "Todo/2023-11-28.md",
     "자료조사",
     "Todo"
   ]
