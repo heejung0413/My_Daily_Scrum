@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-03-09.md",
+                "file": "Todo/2024-03-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-03-09.md",
+                "file": "Todo/2024-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-03-09.md",
+                "file": "Todo/2024-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-03-09.md"
+                "file": "Todo/2024-03-11.md"
               }
             }
           },
@@ -167,6 +166,7 @@
   "active": "dd5a151500e74e70",
   "lastOpenFiles": [
     "Todo/2024-03-09.md",
+    "Todo/2024-03-11.md",
     "Todo/2024-01-16.md",
     "공부해야 하는 것 ⭐.md",
     "Todo/2024-03-08.md",
@@ -194,7 +194,6 @@
     "Todo/2023-12-08.md",
     "Todo/2023-12-05.md",
     "studying",
-    "Todo/2023-11-30.md",
     "자료조사",
     "Todo"
   ]
