@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f3114830975922a8",
+        "id": "9d8cf74d588dd01b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5a151500e74e70",
+            "id": "264347303adcce75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-03-11.md",
+                "file": "Todo/2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-03-11.md",
+                "file": "Todo/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-03-11.md",
+                "file": "Todo/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-03-11.md"
+                "file": "Todo/2024-03-15.md"
               }
             }
           },
@@ -163,10 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd5a151500e74e70",
+  "active": "264347303adcce75",
   "lastOpenFiles": [
-    "Todo/2024-03-09.md",
+    "Todo/2024-03-15.md",
     "Todo/2024-03-11.md",
+    "Todo/2024-03-09.md",
     "Todo/2024-01-16.md",
     "공부해야 하는 것 ⭐.md",
     "Todo/2024-03-08.md",
@@ -192,7 +194,6 @@
     "Todo/2023-12-01.md",
     "Todo/2023-12-06.md",
     "Todo/2023-12-08.md",
-    "Todo/2023-12-05.md",
     "studying",
     "자료조사",
     "Todo"
