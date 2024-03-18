@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a0d1164fe72b8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/2024-03-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-03-15.md",
+                "file": "Todo/2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-03-15.md",
+                "file": "Todo/2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-03-15.md"
+                "file": "Todo/2024-03-18.md"
               }
             }
           },
@@ -164,9 +177,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "264347303adcce75",
+  "active": "1a0d1164fe72b8bd",
   "lastOpenFiles": [
     "Todo/2024-03-15.md",
+    "Todo/2024-03-18.md",
+    "메모/회의때.md",
+    "Pasted image 20240318013738.png",
+    "메모",
     "Todo/2024-03-11.md",
     "Todo/2024-03-09.md",
     "Todo/2024-01-16.md",
@@ -176,7 +193,6 @@
     "README.md",
     "자료조사/FIx2U 해야 하는 것.md",
     "Todo/2024-03-04.md",
-    "무제 파일.md",
     "무제 파일 1.md",
     "commit.md",
     "Todo/2024-01-23.md",
@@ -193,7 +209,6 @@
     "Todo/2023-12-11.md",
     "Todo/2023-12-01.md",
     "Todo/2023-12-06.md",
-    "Todo/2023-12-08.md",
     "studying",
     "자료조사",
     "Todo"
