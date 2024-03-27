@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d8cf74d588dd01b",
+        "id": "fe551b3c1c8f0b35",
         "type": "tabs",
         "children": [
           {
-            "id": "264347303adcce75",
+            "id": "a629fb898913bae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-03-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0d1164fe72b8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/2024-03-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "575726d9760c75df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/2024-03-24.md",
+                "file": "코테공부/level1/level 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-03-24.md",
+                "file": "코테공부/level1/level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-03-24.md",
+                "file": "코테공부/level1/level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-03-24.md"
+                "file": "코테공부/level1/level 1.md"
               }
             }
           },
@@ -189,11 +163,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "575726d9760c75df",
+  "active": "a629fb898913bae0",
   "lastOpenFiles": [
-    "Todo/2024-03-24.md",
+    "Pasted Graphic 1.png",
+    "[ 자바스크립트 ] Math.floor().png",
+    "코테공부/level1/level 1.md",
+    "코테공부/level1",
+    "코테공부",
     "Todo/2024-03-15.md",
     "Todo/2024-03-18.md",
+    "Todo/2024-03-27.md",
+    "Todo/2024-03-24.md",
     "메모/회의때.md",
     "Pasted image 20240318013738.png",
     "메모",
@@ -216,11 +196,8 @@
     "Todo/2024-01-09.md",
     "Todo/2024-01-07.md",
     "Todo/2024-01-08.md",
-    "Todo/2023-12-17.md",
     "Spaces/Home",
     "Spaces",
-    "Todo/2023-12-11.md",
-    "Todo/2023-12-01.md",
     "studying",
     "자료조사",
     "Todo"
