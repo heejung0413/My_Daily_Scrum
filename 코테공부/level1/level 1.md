@@ -90,7 +90,7 @@ function solution(strlist) {
 - 만약, strlist  = ['apple', 'banana', 'cherry', 'date']; 이면 배열의 요소의 개수는 4. 하지만 0부터 시작하기 때문에 0, 1, 2, 3까지 반복. `i<4` 이기 때문에 3까지 반복
 - answer에 배열요소를 무엇을 넣을꺼냐면, strlist의 인덱스 요소의 길이들을 answer의 인덱스 요소들에 넣을 것이다.
 
-1. 다른 사람의 풀이 
+1. **다른 사람의 풀이** 
 ```
 function solution(strlist) {
     return strlist.map((el) => el.length)
@@ -105,9 +105,11 @@ function solution(strlist) {
 ---
 
 
-2. 다른 사람의 풀이 
+2. **다른 사람의 풀이** 
 ```
-function solution(strlist) { return strlist.reduce((a, b) => [...a, b.length], []) }
+function solution(strlist) 
+{ return strlist.reduce((a, b) => 
+[...a, b.length], []) }
 ```
 
 - `reduce` 함수는 배열의 요소에 대해 지정된 콜백함수를 실행하고 **그 결과를 누적하는 메서드**
@@ -115,10 +117,23 @@ function solution(strlist) { return strlist.reduce((a, b) => [...a, b.length], [
 - 여기서 `...a`를 쓰는 이유는 `...`이 스프레드 문법인 것임.
 - **스프레드 문법**은 배열 또는 *객체의 요소를 추출하여 다른 배열이나 객체에 복사하거나 합칠 때* 사용
 - 즉 `...`씀으로써 배열 안의 요소를 추출할 수 있게됨
-- a가 빈배열이니까 빈배열 안에 요소가 없잖슴. 그렇기 때문에 추출할 배열 요소 없이 b.l
+- a가 빈배열이니까 빈배열 안에 요소가 없잖슴. 그렇기 때문에 추출할 배열 요소 없이 b.length의 현재요소를 넣을 수 있는 것.
 
 
--   또 다른 예시 
+- 또 만약 쓴다면, 
+
+```
+function solution(strlist) 
+{ return strlist.reduce((a, b) => [a, b.length], []) }
+```
+- 만약 스프레드 문법 없이 쓰면 결과값이 
+```
+[[[[[], 5], 6], 6], 4]
+```
+- 이렇게 나오게됨
+
+
+-   **또 다른 reduce 예시** 
 ```
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; 
 const sum1 = numbers.reduce((accumulator, currentNumber) => 
@@ -128,4 +143,45 @@ console.log('sum1 =', sum1);
 
 - numbers라는 배열이 있을때, reduce 함수 사용. accumulator는 누적값, currentNumber는 현재 요소
 - accumulator의 누적값에 currentNumber의 현재값을 더함
-- 
+
+
+---
+
+
+x 좌표 (x, y)를 차례대로 담은 정수 배열 `dot`이 매개변수로 주어집니다. 좌표 `dot`이 사분면 중 어디에 속하는지 1, 2, 3, 4 중 하나를 return 하도록 solution 함수를 완성해주세요.
+
+- 내 코드
+
+```
+function solution(dot) {
+    var answer = 0;
+    if(dot[0] < 0) {
+        if(dot[1] < 0){
+            return 3
+        } else{
+            return 2
+        }
+    } else {
+        if(dot[1] < 0){
+            return 4
+        } else{
+            return 1
+        }
+    }
+    return answer;
+}
+```
+
+
+
+
+- 다른 사람 코드
+
+```
+function solution(dot) {
+    const [num,num2] = dot;
+    const check = num * num2 > 0;
+    return num > 0 ? (check ? 1 : 4) : (check ? 3 : 2);
+}
+```
+
