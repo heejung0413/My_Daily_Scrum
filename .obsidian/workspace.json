@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "짬 공부/인터프리터, 컴파일러.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85ab44f881e34532",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "짬 공부/인터프리터, 컴파일러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "짬 공부/인터프리터, 컴파일러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "짬 공부/인터프리터, 컴파일러.md"
               }
             }
           },
@@ -187,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +204,10 @@
   },
   "active": "fa0ae75f409f8402",
   "lastOpenFiles": [
+    "Pasted image 20240404152611.png",
+    "Pasted image 20240404152009.png",
     "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
-    "무제 파일.md",
+    "짬 공부/인터프리터, 컴파일러.md",
     "짬 공부/hositing, TDZ.md",
     "Todo/2024-04-03.md",
     "메모/회의때.md",
@@ -234,7 +238,6 @@
     "Todo/2024-03-04.md",
     "무제 파일 1.md",
     "commit.md",
-    "Todo/2024-01-23.md",
     "Spaces/Home",
     "Spaces",
     "studying",
