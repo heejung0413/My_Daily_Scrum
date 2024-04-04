@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85ab44f881e34532",
@@ -189,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9b8c38e59b67a45",
+  "active": "926f4484ec3af737",
   "lastOpenFiles": [
     "짬 공부/hositing, TDZ.md",
     "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
