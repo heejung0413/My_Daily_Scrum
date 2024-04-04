@@ -3,5 +3,6 @@
   "calendar",
   "make-md",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "highlightr-plugin"
 ]

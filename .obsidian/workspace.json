@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3423e6edc0a2a870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "짬 공부/hositing, TDZ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b8c38e59b67a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,12 +98,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85ab44f881e34532",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-04-03.md",
+                "file": "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-04-03.md",
+                "file": "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-04-03.md"
+                "file": "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md"
               }
             }
           },
@@ -164,10 +189,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a629fb898913bae0",
+  "active": "b9b8c38e59b67a45",
   "lastOpenFiles": [
-    "Todo/2024-03-31.md",
+    "짬 공부/hositing, TDZ.md",
+    "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
     "Todo/2024-04-03.md",
+    "메모/회의때.md",
+    "Todo/2024-03-31.md",
     "DS/{{tomorrow}}.md",
     "코테공부/level1/level 1.md",
     "[ 자바스크립트 ] Math.floor().png",
@@ -181,9 +209,8 @@
     "Todo/2024-03-18.md",
     "Todo/2024-03-27.md",
     "Todo/2024-03-24.md",
-    "메모/회의때.md",
     "Pasted image 20240318013738.png",
-    "메모",
+    "짬 공부",
     "Todo/2024-03-11.md",
     "Todo/2024-03-09.md",
     "Todo/2024-01-16.md",
@@ -197,8 +224,6 @@
     "commit.md",
     "Todo/2024-01-23.md",
     "Todo/2024-01-21.md",
-    "Todo/2024-01-18.md",
-    "Todo/2024-01-17.md",
     "Spaces/Home",
     "Spaces",
     "studying",
