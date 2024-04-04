@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md",
+                "file": "Todo/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85ab44f881e34532",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md",
+                "file": "Todo/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md",
+                "file": "Todo/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md"
+                "file": "Todo/2024-04-03.md"
               }
             }
           },
@@ -204,10 +203,11 @@
   },
   "active": "fa0ae75f409f8402",
   "lastOpenFiles": [
+    "Todo/DailyScrum.md",
+    "짬 공부/인터프리터, 컴파일러.md",
     "Pasted image 20240404152611.png",
     "Pasted image 20240404152009.png",
     "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
-    "짬 공부/인터프리터, 컴파일러.md",
     "짬 공부/hositing, TDZ.md",
     "Todo/2024-04-03.md",
     "메모/회의때.md",
@@ -232,7 +232,6 @@
     "Todo/2024-01-16.md",
     "공부해야 하는 것 ⭐.md",
     "Todo/2024-03-08.md",
-    "Todo/DailyScrum.md",
     "README.md",
     "자료조사/FIx2U 해야 하는 것.md",
     "Todo/2024-03-04.md",
