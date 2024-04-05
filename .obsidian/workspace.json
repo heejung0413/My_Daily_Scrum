@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe551b3c1c8f0b35",
+        "id": "feadcb7af57c4770",
         "type": "tabs",
         "children": [
           {
-            "id": "a629fb898913bae0",
+            "id": "7c98a4c1b752ede5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-04-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3423e6edc0a2a870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "짬 공부/hositing, TDZ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b8c38e59b67a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Todo/2024-04-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85ab44f881e34532",
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Todo/2024-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Todo/2024-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Todo/2024-04-05.md"
               }
             }
           },
@@ -189,11 +165,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3527020df55dd7b7",
+  "active": "7c98a4c1b752ede5",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Todo/2024-04-05.md",
+    "Spaces",
+    "Todo/2024-04-03.md",
+    "짬 공부/hositing, TDZ.md",
+    "README.md",
     "짬 공부/인터프리터, 컴파일러.md",
     "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
-    "짬 공부/hositing, TDZ.md",
     "jpg/[ 자바스크립트 ] Math.floor().png",
     "jpg",
     "jpg/Pasted Graphic 1.png",
@@ -205,7 +186,6 @@
     "DS/2024-03-29.md",
     "코테공부/level1/level 1.md",
     "Todo/2024-04-04.md",
-    "Todo/2024-04-03.md",
     "Todo/DailyScrum.md",
     "메모/회의때.md",
     "Todo/2024-03-31.md",
@@ -222,12 +202,8 @@
     "Todo/2024-03-09.md",
     "Todo/2024-01-16.md",
     "Todo/2024-03-08.md",
-    "README.md",
     "자료조사/FIx2U 해야 하는 것.md",
     "Todo/2024-03-04.md",
-    "무제 파일 1.md",
-    "Spaces/Home",
-    "Spaces",
     "studying",
     "자료조사",
     "Todo"
