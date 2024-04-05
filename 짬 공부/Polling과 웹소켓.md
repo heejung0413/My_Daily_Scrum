@@ -16,3 +16,6 @@
 >  - <mark style="background: #FFB86CA6;">롱폴링</mark>: 서버측에서 접속을 열어두는 시간을 길게 함. 이벤트가 발생하면 *바로 응답이 이루어짐*
 >  - <mark style="background: #FFB86CA6;">스트리밍</mark>: 웹 접속을 계속 열어두고 발생할때마다 부분적으로 브라우저에 응답
 
+
+
+gg

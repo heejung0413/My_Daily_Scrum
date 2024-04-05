@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "짬 공부/hositing, TDZ.md",
+                "file": "짬 공부/Polling과 웹소켓.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "짬 공부/hositing, TDZ.md",
+                "file": "짬 공부/Polling과 웹소켓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "짬 공부/hositing, TDZ.md",
+                "file": "짬 공부/Polling과 웹소켓.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "짬 공부/hositing, TDZ.md"
+                "file": "짬 공부/Polling과 웹소켓.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "7c98a4c1b752ede5",
   "lastOpenFiles": [
-    "짬 공부/Polling과 웹소켓.md",
     "짬 공부/hositing, TDZ.md",
+    "짬 공부/Polling과 웹소켓.md",
     "Todo/2024-04-05.md",
     "짬 공부/인터프리터, 컴파일러.md",
     "무제 파일.canvas",
