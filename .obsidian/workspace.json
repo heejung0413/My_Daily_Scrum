@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-04-05.md",
+                "file": "짬 공부/hositing, TDZ.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85ab44f881e34532",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-04-05.md",
+                "file": "짬 공부/hositing, TDZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-04-05.md",
+                "file": "짬 공부/hositing, TDZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-04-05.md"
+                "file": "짬 공부/hositing, TDZ.md"
               }
             }
           },
@@ -167,13 +166,15 @@
   },
   "active": "7c98a4c1b752ede5",
   "lastOpenFiles": [
-    "Spaces/Home",
+    "짬 공부/Polling과 웹소켓.md",
+    "짬 공부/hositing, TDZ.md",
     "Todo/2024-04-05.md",
+    "짬 공부/인터프리터, 컴파일러.md",
+    "무제 파일.canvas",
+    "Spaces/Home",
     "Spaces",
     "Todo/2024-04-03.md",
-    "짬 공부/hositing, TDZ.md",
     "README.md",
-    "짬 공부/인터프리터, 컴파일러.md",
     "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
     "jpg/[ 자바스크립트 ] Math.floor().png",
     "jpg",
