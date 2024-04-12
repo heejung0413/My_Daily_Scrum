@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md",
+                "file": "Todo/2024-04-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md",
+                "file": "Todo/2024-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md",
+                "file": "Todo/2024-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "짬 공부/인터프리터, 컴파일러.md"
+                "file": "Todo/2024-04-12.md"
               }
             }
           },
@@ -191,6 +192,8 @@
   },
   "active": "8ab09a27da27d62a",
   "lastOpenFiles": [
+    "짬 공부/인터프리터, 컴파일러.md",
+    "Todo/2024-04-12.md",
     "짬 공부/hositing, TDZ.md",
     "짬 메서드.md",
     "README.md",
@@ -198,7 +201,6 @@
     "무제 파일.canvas",
     "짬 공부/Polling과 웹소켓.md",
     "Todo/2024-04-05.md",
-    "짬 공부/인터프리터, 컴파일러.md",
     "Spaces/Home",
     "Spaces",
     "Todo/2024-04-03.md",
@@ -229,7 +231,6 @@
     "Todo/2024-03-11.md",
     "Todo/2024-03-09.md",
     "Todo/2024-01-16.md",
-    "Todo/2024-03-08.md",
     "studying",
     "자료조사",
     "Todo"
