@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-04-12.md",
+                "file": "짬 공부/Polling과 웹소켓.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d9c666ba4e38a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/2024-05-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-04-12.md",
+                "file": "Todo/2024-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-04-12.md",
+                "file": "Todo/2024-05-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-04-12.md"
+                "file": "Todo/2024-05-07.md"
               }
             }
           },
@@ -190,21 +202,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ab09a27da27d62a",
+  "active": "41d9c666ba4e38a8",
   "lastOpenFiles": [
-    "짬 공부/인터프리터, 컴파일러.md",
+    "log, flow.md",
+    "Todo/2024-05-07.md",
     "Todo/2024-04-12.md",
+    "짬 공부/Polling과 웹소켓.md",
+    "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
+    "짬 공부/즉시실행함수.md",
+    "짬 공부/인터프리터, 컴파일러.md",
     "짬 공부/hositing, TDZ.md",
     "짬 메서드.md",
     "README.md",
-    "짬 공부/즉시실행함수.md",
     "무제 파일.canvas",
-    "짬 공부/Polling과 웹소켓.md",
     "Todo/2024-04-05.md",
     "Spaces/Home",
     "Spaces",
     "Todo/2024-04-03.md",
-    "짬 공부/함수 컴포넌트, 선언문 vs 표현식.md",
     "jpg/[ 자바스크립트 ] Math.floor().png",
     "jpg",
     "jpg/Pasted Graphic 1.png",
@@ -229,8 +243,6 @@
     "Todo/2024-03-24.md",
     "짬 공부",
     "Todo/2024-03-11.md",
-    "Todo/2024-03-09.md",
-    "Todo/2024-01-16.md",
     "studying",
     "자료조사",
     "Todo"
