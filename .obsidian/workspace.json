@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-05-07.md",
+                "file": "Todo/2024-06-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-05-07.md",
+                "file": "Todo/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-05-07.md",
+                "file": "Todo/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-05-07.md"
+                "file": "Todo/2024-06-01.md"
               }
             }
           },
@@ -204,6 +204,8 @@
   },
   "active": "41d9c666ba4e38a8",
   "lastOpenFiles": [
+    "Todo/2024-05-23.md",
+    "Todo/2024-06-01.md",
     "log, flow.md",
     "Todo/2024-05-07.md",
     "Todo/2024-04-12.md",
@@ -240,9 +242,7 @@
     "Todo/2024-03-15.md",
     "Todo/2024-03-18.md",
     "Todo/2024-03-27.md",
-    "Todo/2024-03-24.md",
     "짬 공부",
-    "Todo/2024-03-11.md",
     "studying",
     "자료조사",
     "Todo"
