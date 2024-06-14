@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2024-06-01.md",
+                "file": "Todo/2024-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2024-06-01.md",
+                "file": "Todo/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2024-06-01.md",
+                "file": "Todo/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2024-06-01.md"
+                "file": "Todo/2024-06-14.md"
               }
             }
           },
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +203,12 @@
   },
   "active": "41d9c666ba4e38a8",
   "lastOpenFiles": [
-    "Todo/2024-05-23.md",
+    "Todo/2024-06-02.md",
+    "Todo/2024-06-14.md",
+    "DS/{{tomorrow}}.md",
     "Todo/2024-06-01.md",
+    "DS",
+    "Todo/2024-05-23.md",
     "log, flow.md",
     "Todo/2024-05-07.md",
     "Todo/2024-04-12.md",
@@ -228,7 +231,6 @@
     "jpg/Pasted image 20240318013738.png",
     "공부해야 하는 것 ⭐.md",
     "jpg/Pasted image 20240404152611.png",
-    "DS/{{tomorrow}}.md",
     "DS/2024-03-29.md",
     "코테공부/level1/level 1.md",
     "Todo/2024-04-04.md",
@@ -236,12 +238,9 @@
     "메모/회의때.md",
     "Todo/2024-03-31.md",
     "Todo/2024-03-28.md",
-    "DS",
     "코테공부/level1",
     "코테공부",
     "Todo/2024-03-15.md",
-    "Todo/2024-03-18.md",
-    "Todo/2024-03-27.md",
     "짬 공부",
     "studying",
     "자료조사",
